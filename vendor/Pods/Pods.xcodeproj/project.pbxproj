@@ -1,0 +1,468 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1708F580445EB4076501996381D73EDF /* UIFont+MaterialDesignCocoa.m in Sources */ = {isa = PBXBuildFile; fileRef = F3D3E1BBBD6C6A73C11A8C7C5F179CDA /* UIFont+MaterialDesignCocoa.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2D397E69ADAD499B99833AD2B1727B36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90774E4BF98FE66F9E692AC629E1A6EC /* Foundation.framework */; };
+		301C93EBAE777EFCB15B96D243FF5455 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90774E4BF98FE66F9E692AC629E1A6EC /* Foundation.framework */; };
+		35AA41B566EB8B065162FE06500685B6 /* MDCCardTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C2BBCE7D358EF0DE2CB4AA7E3578CD0 /* MDCCardTableViewCell.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		403D0FA52A0E558036ECC4AC19F1A68A /* MDCCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = D8291484BC03493C95F95DD51C0830EE /* MDCCardView.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		4E04C20ADD7B043E056A6A76FD3178DD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A7A663376C1C75188E97499DB07A2B0 /* UIKit.framework */; };
+		536A3147087BB3F5A924E060668AADFA /* MaterialDesignCocoa-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 81A7A376C052BAEC910FE69162A494FF /* MaterialDesignCocoa-dummy.m */; };
+		5E68C349A11F492F8013DF6CCCD3639C /* MDCCardView.h in Headers */ = {isa = PBXBuildFile; fileRef = D1ECBF7725DF2626DE2F3DE94EE12447 /* MDCCardView.h */; };
+		76242193C6C57FAC0C7B425D74B9FF5A /* UIColor+MaterialDesignCocoa.m in Sources */ = {isa = PBXBuildFile; fileRef = 49142F6F4F1D99CE7DC9427B20C586EF /* UIColor+MaterialDesignCocoa.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		85306A8DA630518DCDDE5D647C0616DC /* MDCCardTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 87FDA84057952E232741B4A73201EA0B /* MDCCardTableViewCell.h */; };
+		8EE301611C5D388A90566F43468049F4 /* MDCTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = AE4507365CF0BD398441CD6FD44DCB57 /* MDCTableViewCell.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		AE606C4979E61C74AA34F6BDC135B695 /* Pods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 37B4CB0C68A34EF7E2604CD107AC6C02 /* Pods-dummy.m */; };
+		AE641918ADC37D1BD036595CCEE9838D /* UIFont+MaterialDesignCocoa.h in Headers */ = {isa = PBXBuildFile; fileRef = EB2BB9689D055B3D35DA1CAD018AFE6B /* UIFont+MaterialDesignCocoa.h */; };
+		B41DE2BA1C515E28C4ADE2792CA0FAF6 /* MaterialDesignCocoa.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A2199B6E587A2CC26C9313B1BE20B50 /* MaterialDesignCocoa.h */; };
+		BF4A930439815C9AE9E9EFFD4767C402 /* UIColor+MaterialDesignCocoa.h in Headers */ = {isa = PBXBuildFile; fileRef = 7676D90BCE8D52DCA01F1A64573E493A /* UIColor+MaterialDesignCocoa.h */; };
+		C2141F8D6D5C228E53DA88E33F733390 /* MDCTableViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 63705C2E301EDA1457E5A75C78F7063B /* MDCTableViewCell.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BB9A49A4E47DDD5B5CFFD062209AEDA2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0580E7F3BACFBE39F284A08C7782325F;
+			remoteInfo = MaterialDesignCocoa;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0C2BBCE7D358EF0DE2CB4AA7E3578CD0 /* MDCCardTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCCardTableViewCell.m; path = Classes/MDCCardTableViewCell.m; sourceTree = "<group>"; };
+		15A529C27057E4A57D259CBC6E6CE49C /* Pods-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-acknowledgements.markdown"; sourceTree = "<group>"; };
+		37B4CB0C68A34EF7E2604CD107AC6C02 /* Pods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-dummy.m"; sourceTree = "<group>"; };
+		49142F6F4F1D99CE7DC9427B20C586EF /* UIColor+MaterialDesignCocoa.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+MaterialDesignCocoa.m"; path = "Classes/UIColor+MaterialDesignCocoa.m"; sourceTree = "<group>"; };
+		50CDB704690A32CACC06AEF796EFDD80 /* libMaterialDesignCocoa.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMaterialDesignCocoa.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		5544355AFBB24AB1AFF0D4827180F660 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		63705C2E301EDA1457E5A75C78F7063B /* MDCTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCTableViewCell.h; path = Classes/MDCTableViewCell.h; sourceTree = "<group>"; };
+		641AE05DD55E5E6AC1590CD7B4A18F97 /* Pods-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-resources.sh"; sourceTree = "<group>"; };
+		738F1C04096208D90EDD6FF9A10AEE95 /* MaterialDesignCocoa.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MaterialDesignCocoa.xcconfig; sourceTree = "<group>"; };
+		7676D90BCE8D52DCA01F1A64573E493A /* UIColor+MaterialDesignCocoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+MaterialDesignCocoa.h"; path = "Classes/UIColor+MaterialDesignCocoa.h"; sourceTree = "<group>"; };
+		7A7A663376C1C75188E97499DB07A2B0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		81A7A376C052BAEC910FE69162A494FF /* MaterialDesignCocoa-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MaterialDesignCocoa-dummy.m"; sourceTree = "<group>"; };
+		87FDA84057952E232741B4A73201EA0B /* MDCCardTableViewCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCCardTableViewCell.h; path = Classes/MDCCardTableViewCell.h; sourceTree = "<group>"; };
+		8A2199B6E587A2CC26C9313B1BE20B50 /* MaterialDesignCocoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MaterialDesignCocoa.h; path = Classes/MaterialDesignCocoa.h; sourceTree = "<group>"; };
+		90774E4BF98FE66F9E692AC629E1A6EC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		93894906F988A661BB89258441514700 /* MaterialDesignCocoa-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "MaterialDesignCocoa-Private.xcconfig"; sourceTree = "<group>"; };
+		97C5CA724B9FCAFF38093BEA3BD0A8C5 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.debug.xcconfig; sourceTree = "<group>"; };
+		AE4507365CF0BD398441CD6FD44DCB57 /* MDCTableViewCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCTableViewCell.m; path = Classes/MDCTableViewCell.m; sourceTree = "<group>"; };
+		BF59BC15D23E1E1912C8F334E7236813 /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		D1ECBF7725DF2626DE2F3DE94EE12447 /* MDCCardView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MDCCardView.h; path = Classes/MDCCardView.h; sourceTree = "<group>"; };
+		D8291484BC03493C95F95DD51C0830EE /* MDCCardView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MDCCardView.m; path = Classes/MDCCardView.m; sourceTree = "<group>"; };
+		E60F57E23EFA0C01E9CDFABE49C6AB97 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.release.xcconfig; sourceTree = "<group>"; };
+		EB2BB9689D055B3D35DA1CAD018AFE6B /* UIFont+MaterialDesignCocoa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+MaterialDesignCocoa.h"; path = "Classes/UIFont+MaterialDesignCocoa.h"; sourceTree = "<group>"; };
+		EDC84864D5E993A24A2E03A55AEE1EE5 /* MaterialDesignCocoa-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MaterialDesignCocoa-prefix.pch"; sourceTree = "<group>"; };
+		F3D3E1BBBD6C6A73C11A8C7C5F179CDA /* UIFont+MaterialDesignCocoa.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIFont+MaterialDesignCocoa.m"; path = "Classes/UIFont+MaterialDesignCocoa.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		05130293DE9016CBAE334C4955AEC2FE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				301C93EBAE777EFCB15B96D243FF5455 /* Foundation.framework in Frameworks */,
+				4E04C20ADD7B043E056A6A76FD3178DD /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0F3135827295E3E6CF89AEB4C6B19FE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D397E69ADAD499B99833AD2B1727B36 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		34F5E986765ECECAB9081935EEAE5E39 /* MaterialDesignCocoa */ = {
+			isa = PBXGroup;
+			children = (
+				87FDA84057952E232741B4A73201EA0B /* MDCCardTableViewCell.h */,
+				0C2BBCE7D358EF0DE2CB4AA7E3578CD0 /* MDCCardTableViewCell.m */,
+				D1ECBF7725DF2626DE2F3DE94EE12447 /* MDCCardView.h */,
+				D8291484BC03493C95F95DD51C0830EE /* MDCCardView.m */,
+				63705C2E301EDA1457E5A75C78F7063B /* MDCTableViewCell.h */,
+				AE4507365CF0BD398441CD6FD44DCB57 /* MDCTableViewCell.m */,
+				8A2199B6E587A2CC26C9313B1BE20B50 /* MaterialDesignCocoa.h */,
+				7676D90BCE8D52DCA01F1A64573E493A /* UIColor+MaterialDesignCocoa.h */,
+				49142F6F4F1D99CE7DC9427B20C586EF /* UIColor+MaterialDesignCocoa.m */,
+				EB2BB9689D055B3D35DA1CAD018AFE6B /* UIFont+MaterialDesignCocoa.h */,
+				F3D3E1BBBD6C6A73C11A8C7C5F179CDA /* UIFont+MaterialDesignCocoa.m */,
+				8BA02ECF7D365BC86B8B783818B2ED49 /* Support Files */,
+			);
+			path = MaterialDesignCocoa;
+			sourceTree = "<group>";
+		};
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D0FB9306D21AF23A056944AE037CBFFF /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		73A3D2CBF83561E831C4859BA541B259 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				34F5E986765ECECAB9081935EEAE5E39 /* MaterialDesignCocoa */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				73A3D2CBF83561E831C4859BA541B259 /* Pods */,
+				CCA510CFBEA2D207524CDA0D73C3B561 /* Products */,
+				D2411A5FE7F7A004607BED49990C37F4 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8BA02ECF7D365BC86B8B783818B2ED49 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				738F1C04096208D90EDD6FF9A10AEE95 /* MaterialDesignCocoa.xcconfig */,
+				93894906F988A661BB89258441514700 /* MaterialDesignCocoa-Private.xcconfig */,
+				81A7A376C052BAEC910FE69162A494FF /* MaterialDesignCocoa-dummy.m */,
+				EDC84864D5E993A24A2E03A55AEE1EE5 /* MaterialDesignCocoa-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/MaterialDesignCocoa";
+			sourceTree = "<group>";
+		};
+		952EEBFAF8F7E620423C9F156F25A506 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				15A529C27057E4A57D259CBC6E6CE49C /* Pods-acknowledgements.markdown */,
+				BF59BC15D23E1E1912C8F334E7236813 /* Pods-acknowledgements.plist */,
+				37B4CB0C68A34EF7E2604CD107AC6C02 /* Pods-dummy.m */,
+				641AE05DD55E5E6AC1590CD7B4A18F97 /* Pods-resources.sh */,
+				97C5CA724B9FCAFF38093BEA3BD0A8C5 /* Pods.debug.xcconfig */,
+				E60F57E23EFA0C01E9CDFABE49C6AB97 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			path = "Target Support Files/Pods";
+			sourceTree = "<group>";
+		};
+		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50CDB704690A32CACC06AEF796EFDD80 /* libMaterialDesignCocoa.a */,
+				5544355AFBB24AB1AFF0D4827180F660 /* libPods.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D0FB9306D21AF23A056944AE037CBFFF /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				90774E4BF98FE66F9E692AC629E1A6EC /* Foundation.framework */,
+				7A7A663376C1C75188E97499DB07A2B0 /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		D2411A5FE7F7A004607BED49990C37F4 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				952EEBFAF8F7E620423C9F156F25A506 /* Pods */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		E7FEAEBBD8C753FAA2114303EB1E0FBE /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				85306A8DA630518DCDDE5D647C0616DC /* MDCCardTableViewCell.h in Headers */,
+				5E68C349A11F492F8013DF6CCCD3639C /* MDCCardView.h in Headers */,
+				C2141F8D6D5C228E53DA88E33F733390 /* MDCTableViewCell.h in Headers */,
+				B41DE2BA1C515E28C4ADE2792CA0FAF6 /* MaterialDesignCocoa.h in Headers */,
+				BF4A930439815C9AE9E9EFFD4767C402 /* UIColor+MaterialDesignCocoa.h in Headers */,
+				AE641918ADC37D1BD036595CCEE9838D /* UIFont+MaterialDesignCocoa.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		0580E7F3BACFBE39F284A08C7782325F /* MaterialDesignCocoa */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E628B910C5DDDDF3160AC8FEEC22DE76 /* Build configuration list for PBXNativeTarget "MaterialDesignCocoa" */;
+			buildPhases = (
+				90A367F6A9CCAEAB305C4B8F52468F0D /* Sources */,
+				05130293DE9016CBAE334C4955AEC2FE /* Frameworks */,
+				E7FEAEBBD8C753FAA2114303EB1E0FBE /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MaterialDesignCocoa;
+			productName = MaterialDesignCocoa;
+			productReference = 50CDB704690A32CACC06AEF796EFDD80 /* libMaterialDesignCocoa.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		4FE18DD616FD5472F97CE899C0A0CF66 /* Pods */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 69C83F16766E8DB48B201E5F36D3155E /* Build configuration list for PBXNativeTarget "Pods" */;
+			buildPhases = (
+				AF941B8B1012ADCDC49FE72D3B705DF7 /* Sources */,
+				E0F3135827295E3E6CF89AEB4C6B19FE /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A1FE85C8BE788BE0CC3E16FFECAEC9C0 /* PBXTargetDependency */,
+			);
+			name = Pods;
+			productName = Pods;
+			productReference = 5544355AFBB24AB1AFF0D4827180F660 /* libPods.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = CCA510CFBEA2D207524CDA0D73C3B561 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0580E7F3BACFBE39F284A08C7782325F /* MaterialDesignCocoa */,
+				4FE18DD616FD5472F97CE899C0A0CF66 /* Pods */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		90A367F6A9CCAEAB305C4B8F52468F0D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35AA41B566EB8B065162FE06500685B6 /* MDCCardTableViewCell.m in Sources */,
+				403D0FA52A0E558036ECC4AC19F1A68A /* MDCCardView.m in Sources */,
+				8EE301611C5D388A90566F43468049F4 /* MDCTableViewCell.m in Sources */,
+				536A3147087BB3F5A924E060668AADFA /* MaterialDesignCocoa-dummy.m in Sources */,
+				76242193C6C57FAC0C7B425D74B9FF5A /* UIColor+MaterialDesignCocoa.m in Sources */,
+				1708F580445EB4076501996381D73EDF /* UIFont+MaterialDesignCocoa.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF941B8B1012ADCDC49FE72D3B705DF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE606C4979E61C74AA34F6BDC135B695 /* Pods-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A1FE85C8BE788BE0CC3E16FFECAEC9C0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MaterialDesignCocoa;
+			target = 0580E7F3BACFBE39F284A08C7782325F /* MaterialDesignCocoa */;
+			targetProxy = BB9A49A4E47DDD5B5CFFD062209AEDA2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		308E7B7DA8CBB90026ED8474FD723E52 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93894906F988A661BB89258441514700 /* MaterialDesignCocoa-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/MaterialDesignCocoa/MaterialDesignCocoa-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		7859940C704A0C050BA9C956E66103CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E60F57E23EFA0C01E9CDFABE49C6AB97 /* Pods.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		78EF109BB4829132D7FDC9B72B382FBD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97C5CA724B9FCAFF38093BEA3BD0A8C5 /* Pods.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		7FF90D0FABD67B6EFB87B9B8BE8BC36A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93894906F988A661BB89258441514700 /* MaterialDesignCocoa-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/MaterialDesignCocoa/MaterialDesignCocoa-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		A2A3FCA6599E8034578E80B9179C76CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		AB66C978656E240C917407B296597F92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A2A3FCA6599E8034578E80B9179C76CD /* Debug */,
+				AB66C978656E240C917407B296597F92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		69C83F16766E8DB48B201E5F36D3155E /* Build configuration list for PBXNativeTarget "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78EF109BB4829132D7FDC9B72B382FBD /* Debug */,
+				7859940C704A0C050BA9C956E66103CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E628B910C5DDDDF3160AC8FEEC22DE76 /* Build configuration list for PBXNativeTarget "MaterialDesignCocoa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				308E7B7DA8CBB90026ED8474FD723E52 /* Debug */,
+				7FF90D0FABD67B6EFB87B9B8BE8BC36A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

@@ -1,0 +1,10 @@
+PODS:
+  - MaterialDesignCocoa (0.0.2)
+
+DEPENDENCIES:
+  - MaterialDesignCocoa
+
+SPEC CHECKSUMS:
+  MaterialDesignCocoa: 271e7ed939a4825f125d1f2591d1e284e1999541
+
+COCOAPODS: 0.38.2
